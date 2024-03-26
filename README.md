@@ -63,7 +63,7 @@ A card visual was used to represent 'Sick leave'.
 
  
  # Report Snapshot (Power BI DESKTOP)
-
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Report dashboard](https://github.com/imon333/HR_Employee-Presence-_PowerBI/assets/140762800/0a054ae5-0037-4708-8fbd-ab94b4224945)
+
 
